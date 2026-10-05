@@ -1,3 +1,4 @@
 here is file 3
 
 new changes from remote repo
+some changes from local
